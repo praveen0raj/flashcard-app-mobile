@@ -67,7 +67,7 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/flashcard-app-mobile.git
+git clone https://github.com/praveen0raj/flashcard-app-mobile.git
 cd flashcard-app-mobile
 ```
 
@@ -366,8 +366,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or feature requests:
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/flashcard-app-mobile/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/flashcard-app-mobile/discussions)
+- **Issues**: [GitHub Issues](https://github.com/praveen0raj/flashcard-app-mobile/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/praveen0raj/flashcard-app-mobile/discussions)
 - **Email**: support@yourapp.com
 
 ## Screenshots
@@ -376,7 +376,7 @@ _Coming soon - Add screenshots of your app here_
 
 ## Authors
 
-- Your Name - [GitHub](https://github.com/yourusername)
+- Praveen Raj - [GitHub](https://github.com/praveen0raj)
 
 ---
 
